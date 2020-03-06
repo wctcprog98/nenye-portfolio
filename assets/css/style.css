@@ -119,24 +119,41 @@ h2{
     width: 100%;
 }
 
+.css-typing p {
+  color: #ff8a00;
+  font-size: 60px;
+  font-weight: 600;
+}
+
 .css-typing{
   position: absolute;
-  top: 150px;
+  top: 175px;
+  left: 250px;
   font-family: "Oswald", "sans-serif";
-  color: white;
+  color: white; 
   font-size: 30px;
 }
 
-.css-typing nth:child(1) {  
+.css-typing nth:child(2) {  
   color: #ff8a00;
 }
 
+.slide{
+  font-family: "Oswald", "sans-serif";
+  font-size: 25px;
+}
+
+.slide1{
+  font-family: "Oswald", "sans-serif";
+  font-size: 25px;
+  color: white; 
+}
 h1.art{
   text-align: center;
   position: relative;
   top: 45px;
   font-family: "Oswald", "sans-serif";
-  font-size: 45px;
+  font-size: 60px;
 }
 
 
@@ -454,7 +471,7 @@ a .btn:hover{
 .skill{
   color: white;
   font-family: "Oswald", "sans-serif";
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -561,6 +578,7 @@ table{
   text-align: left;
   position: relative;
   left: 500px;
+  font-size: 20px;
 }
  
 #thankYou{

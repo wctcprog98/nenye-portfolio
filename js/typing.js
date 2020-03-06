@@ -1,14 +1,14 @@
 
 
 new TypeIt(".css-typing")
-  .type("Hello. My name is")
+  .type("Hello, My name is")
     .pause(1000)
     .break()
     .break()
-    .type("NENYE DIEI")
     .break()
+    .type("<p>NENYE DIEI</p>")
     .break()
-    .pause(1000)
+    .pause(2000)
     .type("I am a Full Stack Web Developer")
     .pause(2000)
     .delete(24)
@@ -21,3 +21,6 @@ new TypeIt(".css-typing")
     .pause(1000)
     .type("I am a Full Stack Developer")
   .go();
+
+
+
